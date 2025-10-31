@@ -14,3 +14,4 @@ def verify_fact(fact):
         return True
     elif fact == "foggy":
         return
+
